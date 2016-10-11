@@ -1,0 +1,3 @@
+filament : 3.89 m
+weight : 33.14 g
+print time : 02:00 hours

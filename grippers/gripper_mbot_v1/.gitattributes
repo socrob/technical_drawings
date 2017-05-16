@@ -1,0 +1,10 @@
+gripper_support.stl filter=lfs diff=lfs merge=lfs -text
+left_arm_geared.stl filter=lfs diff=lfs merge=lfs -text
+left_arm_w_gear.stl filter=lfs diff=lfs merge=lfs -text
+lock[[:space:]]gripper.stl filter=lfs diff=lfs merge=lfs -text
+right_arm_geared_bottom.stl filter=lfs diff=lfs merge=lfs -text
+right_arm_w_gear.stl filter=lfs diff=lfs merge=lfs -text
+assembly_festo_one_piece_print.stl filter=lfs diff=lfs merge=lfs -text
+base_motor.stl filter=lfs diff=lfs merge=lfs -text
+right_arm_geared_top.stl filter=lfs diff=lfs merge=lfs -text
+*.stl filter=lfs diff=lfs merge=lfs -text
